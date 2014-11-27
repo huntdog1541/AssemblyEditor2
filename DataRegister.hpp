@@ -18,7 +18,7 @@ class DataReg
 	public:
 	DataReg();
 	~DataReg();
-	void addValue(int);
+	void setValue(int);
 	void printValue();
 	void displayNum();
 

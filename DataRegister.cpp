@@ -19,7 +19,7 @@ DataReg::DataReg()
 DataReg::~DataReg()
 	{
 	}
-void DataReg::addValue(int num)
+void DataReg::setValue(int num) //
 	{
 		accmx.setValue(num);
 	}
